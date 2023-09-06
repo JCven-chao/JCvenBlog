@@ -1,5 +1,5 @@
 ---
-title: 主要功能与配置演示
+title: 如何使用
 index: false
 icon: laptop-code
 category:
